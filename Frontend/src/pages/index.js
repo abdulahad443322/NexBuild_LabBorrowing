@@ -1,3 +1,9 @@
 export { default as Login } from './Login';
-export { default as Register } from './Register';
 export { default as Dashboard } from './Dashboard';
+export { default as Home } from './Home';
+export { default as Inventory } from './Inventory';
+export { default as Catagory } from './Catagory';
+export { default as Users } from './Users';
+export { default as BorrowRequests } from './BorrowRequests';
+export { default as Loans } from './Loans';
+export { default as Reports } from './Reports';
